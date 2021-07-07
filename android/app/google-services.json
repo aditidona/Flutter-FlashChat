@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675514484532",
+    "project_id": "flash-chat-fa142",
+    "storage_bucket": "flash-chat-fa142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675514484532:android:a593f73fa04b8b3b260761",
+        "android_client_info": {
+          "package_name": "AditiDona.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675514484532-2cukjhvnmc8q772bkloka53nlp35b56l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpeyiq6XndnNOdyFMK6Ab--Cxvvy2A6z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675514484532-2cukjhvnmc8q772bkloka53nlp35b56l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
